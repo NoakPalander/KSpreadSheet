@@ -1,0 +1,29 @@
+{
+  "repeatCell": {
+    "range": {
+      "sheetId": 0,
+      "startRowIndex": 0,
+      "endRowIndex": 1
+    },
+    "cell": {
+      "userEnteredFormat": {
+        "backgroundColor": {
+          "red": 0.25,
+          "green": 0.5,
+          "blue": 0.95
+        },
+        "horizontalAlignment" : "CENTER",
+        "textFormat": {
+          "foregroundColor": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0
+          },
+          "fontSize": 20,
+          "bold": true
+        }
+      }
+    },
+    "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
+  }
+}
